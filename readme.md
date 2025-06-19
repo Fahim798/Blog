@@ -7,7 +7,7 @@ This microservice provides APIs for managing a simple blog system. It allows use
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/AshFahim/GhewMew
+    git clone https://github.com/Fahim798/Blog
     ```
 
 2. Navigate to the project directory:
